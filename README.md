@@ -1,5 +1,5 @@
 # Drowsiness-Detector
-Takes real time video input to detect driver’s state and alarm if the driver is drowsy/sleepy. 
+Takes real time video input to detect state of driver’s face and alarm if the driver is drowsy/sleepy. 
 
 Uses face recognition and dlib library for mapping eye movement.
 
